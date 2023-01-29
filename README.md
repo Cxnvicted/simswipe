@@ -1,22 +1,18 @@
 # Hello
 
 <img src="https://cdn.discordapp.com/attachments/1051942010963099788/1058825771558379540/Convictedbanner.png" width="100%">
-
-<p align="center">  
-<img src="https://cdn.discordapp.com/attachments/630097127703445505/903968687986454558/unknown.png">
-</p>
 <p align="center">
     Cxnvicted
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=weloveusyrus&color=grey">
+<img src="https://komarev.com/ghpvc/?username=cxnvicted&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-2/410197890993094666.png"/>
+  <img src="https://discord.c99.nl/widget/theme-2/1000022273673138226.png"/>
 </p>
 <p align="center">
 Working on Killa.lol
 <p align="center">
-    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
+    <a href="https://discord.gg/GA3BtE8n2a">Discord Server</a>
     
 **About me:**
 -  I use Visual Studio Code
