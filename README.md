@@ -1,6 +1,6 @@
 # Hi, I'm Convicted
 
-<img src="https://i.imgur.com/Nz5wez1.png](https://cdn.discordapp.com/attachments/1051942010963099788/1058825771558379540/Convictedbanner.png" width="100%">
+<img src="https://cdn.discordapp.com/attachments/1051942010963099788/1058825771558379540/Convictedbanner.png" width="100%">
 
 * * *
 
