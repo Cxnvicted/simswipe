@@ -19,6 +19,7 @@ Working on Killa.lol
 -  I'm developer since 2019 
 -  I'm CEO at [@Killa](https://Killa.lol)
 -  How to reach me: [My site](https://Killa.lol/$)
+    
 **Languages:**
 <img align="left" height="20" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
 <img align="left" height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">  
