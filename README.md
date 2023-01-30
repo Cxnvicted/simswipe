@@ -10,20 +10,12 @@
   <img src="https://discord.c99.nl/widget/theme-4/1000022273673138226.png"/>
 </p>
 <p align="center">
-Working on Killa.lol
+...
 <p align="center">
     <a href="https://discord.gg/GA3BtE8n2a">Discord Server</a>
     
 **About me:**
--  I use Visual Studio Code
--  I'm developer since 2019 
--  I'm CEO at [@Killa](https://Killa.lol)
--  How to reach me: [My site](https://Killa.lol/$)
-    
-**Languages:**
-<img align="left" height="20" src="https://cdn-icons-png.flaticon.com/512/732/732212.png">
-<img align="left" height="20" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">  
-
+- Owner & Developer for @ Killa.lol
 
 | <a href="https://github.com/Cxnvicted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cxnvicted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Cxnvicted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
