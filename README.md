@@ -1,6 +1,6 @@
 # Hello
 
-<img src="https://cdn.discordapp.com/attachments/1069592850569887815/1069603113515876422/g0UVkOwCsBnXhTOchGhta5ii4mUiv8D9mTavoXNFVLAAAAAElFTkSuQmCC.png" width="100%">
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 <p align="center">
     Cxnvicted
 <p align="center">  
