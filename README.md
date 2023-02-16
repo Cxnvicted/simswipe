@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=cxnvicted&color=grey">
 </p>
     <p align="center">
-  <img src="https://api.discord-status.me/1000022273673138226"/>
+  <img src="https://api.discord-status.me/1075114795935744151"/>
 </p>
 <p align="center">
 ...
