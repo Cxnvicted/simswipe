@@ -4,9 +4,9 @@
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 <p align="center">
     Welcome to my Github Profile.
- [![](https://visitcount.itsvg.in/api?id=Cxnvicted&icon=7&color=12)](https://visitcount.itsvg.in)
 <p align="center">  
     <p align="center">
+  [![](https://visitcount.itsvg.in/api?id=Cxnvicted&icon=7&color=12)](https://visitcount.itsvg.in)
   <img src="https://api.discord-status.me/1075114795935744151"/>
 </p>
 <p align="center">
