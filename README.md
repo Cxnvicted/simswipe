@@ -6,7 +6,7 @@
     Welcome to my Github Profile.
 <p align="center">  
     <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=Cxnvicted&icon=7&color=12)](https://visitcount.itsvg.in)
+  ![](https://visitcount.itsvg.in/api?id=Cxnvicted&icon=7&color=12)](https://visitcount.itsvg.in)
   <img src="https://api.discord-status.me/1075114795935744151"/>
 </p>
 <p align="center">
