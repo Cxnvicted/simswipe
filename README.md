@@ -5,18 +5,27 @@
 <p align="center">
     Welcome to my Github Profile.
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=cxnvicted&color=grey">
-</p>
     <p align="center">
   <img src="https://api.discord-status.me/1075114795935744151"/>
 </p>
 <p align="center">
 ...
-<p align="center">
-    <a href="https://discord.gg/GA3BtE8n2a">Discord Server</a>
-    
-**About me:**
-- Owner & Developer for @ Killa.lol
 
-| <a href="https://github.com/Cxnvicted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Cxnvicted&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Cxnvicted/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+# 💫 About Me:
+Owner & Developer for @ Killa.lol
+
+## Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jDWJQJkTJC) 
+
+# Languages :
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+# Stats:
+![](https://github-readme-stats.vercel.app/api?username=Cxnvicted&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cxnvicted&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxnvicted&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Cxnvicted&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Cxnvicted&icon=7&color=12)](https://visitcount.itsvg.in)
