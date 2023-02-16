@@ -13,13 +13,8 @@
 
 # 💫 About Me:
 Owner & Developer for @ Killa.lol
-
-- Socials
-
- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jDWJQJkTJC) 
-
--  Languages
  
+ [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jDWJQJkTJC) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 - Stats
  
