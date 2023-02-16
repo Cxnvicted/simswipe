@@ -23,6 +23,7 @@ Owner & Developer for @ Killa.lol
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cxnvicted&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxnvicted&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
