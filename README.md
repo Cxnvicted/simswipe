@@ -26,6 +26,5 @@ Owner & Developer for @ Killa.lol
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Cxnvicted&icon=7&color=12)](https://visitcount.itsvg.in)
  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
