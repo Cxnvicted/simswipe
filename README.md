@@ -5,6 +5,7 @@
 <p align="center">
     Welcome to my Github Profile.
 <p align="center">  
+  ![](https://github-profile-trophy.vercel.app/?username=Cxnvicted&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
     <p align="center">
   <img src="https://api.discord-status.me/1075114795935744151"/>
 </p>
@@ -21,5 +22,3 @@ Owner & Developer for @ Killa.lol
 ![](https://github-readme-stats.vercel.app/api?username=Cxnvicted&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Cxnvicted&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cxnvicted&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
- ![](https://github-profile-trophy.vercel.app/?username=Cxnvicted&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
