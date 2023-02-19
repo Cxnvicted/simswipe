@@ -7,7 +7,7 @@
 <p align="center">  
  <img src="https://komarev.com/ghpvc/?username=cxnvicted&color=151515">
     <p align="center">
-  <img src"https://api.discord-status.me/1075114795935744151?gradient=%23000000%2C%20%23000000)"/>
+  <img src="https://api.discord-status.me/1075114795935744151?gradient=%23000000%2C%20%23000000)"/>
 </p>
 <p align="center">
 
